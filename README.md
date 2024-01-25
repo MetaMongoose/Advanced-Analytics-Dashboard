@@ -19,3 +19,6 @@ an advanced exploratory analysis conducted in Python.
 ## Dataset
 I chose to use a life expectancy dataset which I obtained from kaggle.com. The original data was sourced from the Worldbank,
 and I was able to confirm this by looking directly at the data avaible from Worldbank.
+
+## Links
+Dashboard: https://public.tableau.com/shared/DTKYZQRGG?:display_count=n&:origin=viz_share_link
