@@ -27,7 +27,7 @@ contains 17 columns. Excluding ‘Year’, there are 13 numerical columns, and t
 The data provides variables such as life expectancy, beer consumption per capita, forest area, income
 and more, for 119 countries.
 
-## Data Owner: Ramin Rzayev
+## Data Owner: World Bank
 
 ## Data Limitations & Ethics:
 The dataset is from 2000 to 2020, which excludes the recent COVID pandemic. Although it is good to
